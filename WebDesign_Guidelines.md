@@ -6,7 +6,7 @@
 
 1. Use a font-size between 15 and 25 pixels for body text
 
-ß2. Use (really) big font sizes for headlines
+2. Use (really) big font sizes for headlines
 
 3. Use a line spacing between 120 and 150% of the font size
 
