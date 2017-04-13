@@ -1,4 +1,4 @@
-![my Logo](/images/logo.png)
+![my Logo](/GG Logo Color.png)
 
 # Guidelines WebDesign
 
