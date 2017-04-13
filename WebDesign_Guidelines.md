@@ -1,4 +1,4 @@
-![GitHub Logo](/images/logo.png)
+![my Logo](/images/logo.png)
 
 # Guidelines WebDesign
 
