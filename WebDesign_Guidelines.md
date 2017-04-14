@@ -17,9 +17,9 @@
 
 6. Chose a font which reflects the look and feel you want for your website
 
-7. Use only one font<br>
+7. Use only one font
 
-
+<br>
 
 ## Using Colors Like a Pro
 
@@ -31,9 +31,9 @@
 
 4. Never use black in your design
 
-5. Choose colors wisely<br>
+5. Choose colors wisely
 
-
+<br>
 
 ## Working with Images
 
@@ -45,9 +45,9 @@
 
 4. Blur the image
 
-5. The floor fade<br>
+5. The floor fade
 
-
+<br>
 
 ## Working with icons
 
@@ -61,9 +61,9 @@
 
 5. Icons should not take a center stage
 
-6. Use icon fonts whenever possible<br>
+6. Use icon fonts whenever possible
 
-
+<br>
 
 ## Spacing and Layout 
 
