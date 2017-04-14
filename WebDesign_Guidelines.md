@@ -1,4 +1,4 @@
-<img src="images/logo.png" width="600">
+<img src="images/logo.png" width="400">
 
 <h1> Guidelines WebDesign </h1>
 
