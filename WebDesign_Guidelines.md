@@ -1,6 +1,6 @@
-![my Logo](/images/logo.png=600*287)
+<img src="images/logo.png" width="600">
 
-# Guidelines WebDesign
+<h1> Guidelines WebDesign </h1>
 
 ## Beatiful Typography
 
