@@ -1,6 +1,7 @@
-<img src="images/logo.png" width="400">
 
-<h1> Guidelines WebDesign </h1>
+
+<h1> Guidelines WebDesign </h1> <br>
+
 
 ## Beatiful Typography
 
@@ -18,6 +19,8 @@
 
 7. Use only one font
 
+
+
 ## Using Colors Like a Pro
 
 1. Use only one base color
@@ -30,6 +33,8 @@
 
 5. Choose colors wisely
 
+
+
 ## Working with Images
 
 1. Put text directly on the image
@@ -41,6 +46,8 @@
 4. Blur the image
 
 5. The floor fade
+
+
 
 ## Working with icons
 
@@ -55,6 +62,8 @@
 5. Icons should not take a center stage
 
 6. Use icon fonts whenever possible
+
+
 
 ## Spacing and Layout 
 
