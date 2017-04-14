@@ -1,4 +1,4 @@
-![my Logo](/images/logo.png)
+![my Logo](/images/logo.png=600*287)
 
 # Guidelines WebDesign
 
